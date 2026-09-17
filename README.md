@@ -99,7 +99,7 @@ No build tools (Maven/Gradle) or internet connections are required. The project 
 1. Open **Command Prompt** or **PowerShell**.
 2. Navigate to the project root directory:
    ```cmd
-   cd "C:\Users\abhir\OneDrive\Desktop\JAVA Vityarathi"
+   cd "D:\Java\student-management-system-main\student-management-system-main"
    ```
 3. Create the output directory (if not already created):
    ```cmd
